@@ -1,0 +1,752 @@
+{
+  "order_status": true,
+  "o_id": "2951",
+  "ho_id": "2951",
+  "logo": "https://domenia.blue7.it/mc_logos/logo_c218.png",
+  "first_image": "https://bauvorschau.com/index.php/images/optimized/60/1000/2021/2951/2951.x01.p1563/44b9df5376226e2f6200f570a249edea92f79f43.jpg",
+  "order_info": {
+    "client_info": "Die BAUVORSCHAU von PLITT r&v ESTATE Ltd.,  Deutschland, präsentiert",
+    "order_name": "BEISPIELSHAUS"
+  },
+  "client_colors": {
+    "color_1": "#24B04D",
+    "color_1a": "#24B04D",
+    "color_2": "#000000",
+    "color_3": "#000000",
+    "color_4": "#000000",
+    "color_5": "#ffffff"
+  },
+  "exterior_subcategories": [
+    {
+      "subcategory_id": "x01",
+      "subcategory_name": "schwarz-weiß (B7)",
+      "subcategory_img": "https://blue7.it/studio/result_compress_files/2021/2951/2951.x01.p1563/44b9df5376226e2f6200f570a249edea92f79f43.jpg_compress.jpg",
+      "image_list": [
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.x01.p1563/44b9df5376226e2f6200f570a249edea92f79f43.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.x01.p1563/44b9df5376226e2f6200f570a249edea92f79f43.jpg"
+        }
+      ]
+    },
+    {
+      "subcategory_id": "x02",
+      "subcategory_name": "rot-beige (B5)",
+      "subcategory_img": "https://blue7.it/studio/result_compress_files/2021/2951/2951.x02.p1563/752c183cf95d8215e55d6f844e7f0fee95629341.jpg_compress.jpg",
+      "image_list": [
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.x02.p1563/752c183cf95d8215e55d6f844e7f0fee95629341.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.x02.p1563/f029f28515578677ccc165ae9aedc53b5b28bf2d.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.x02.p1563/02fd08608a2b2c7f743b65ccd5d615b9d387b645.jpg"
+        }
+      ]
+    },
+    {
+      "subcategory_id": "x03",
+      "subcategory_name": "s/w/grün (B5)",
+      "subcategory_img": "https://blue7.it/studio/result_compress_files/2021/2951/2951.x03.p1563/c4390ff48def477fd286b7d85029c22d0c9632d9.jpg_compress.jpg",
+      "image_list": [
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.x03.p1563/c4390ff48def477fd286b7d85029c22d0c9632d9.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.x03.p1563/567afbb2026b9fea41e6d4d010ffe38120f3e82c.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.x03.p1563/4fcc0501ef8b827add0d655602e5a8ba1bd1a2da.jpg"
+        }
+      ]
+    },
+    {
+      "subcategory_id": "x04",
+      "subcategory_name": "rot-braun-holz (B5)",
+      "subcategory_img": "https://blue7.it/studio/result_compress_files/2021/2951/2951.x04.p1563/276c5bc769e43a39fc05308daf41e89610f1dcef.jpg_compress.jpg",
+      "image_list": [
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.x04.p1563/276c5bc769e43a39fc05308daf41e89610f1dcef.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.x04.p1563/f4d95e86ac59b8c539a6866c1b06159680b4500a.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.x04.p1563/f13c525535d37e9d029d6b108b0ab1706ef6a223.jpg"
+        }
+      ]
+    }
+  ],
+  "exterior_360_panoramas": [
+    {
+      "subcategory_id": "x01",
+      "subcategory_name": "schwarz-weiß (B7)",
+      "subcategory_img": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.x01.p1566/12e185b911b51a397b7374fb0d5abdfa39740927.jpg",
+      "image_list": [
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.x01.p1566/12e185b911b51a397b7374fb0d5abdfa39740927.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.x01.p1566/257352c8fe3151190154758dc5a5ae0ace8fe57c.jpg"
+        }
+      ]
+    },
+    {
+      "subcategory_id": "x02",
+      "subcategory_name": "rot-beige (B5)",
+      "subcategory_img": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.x02.p1566/264f7f3b2fee12f8dcbdd2c9b058b5945274d438.jpg",
+      "image_list": [
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.x02.p1566/264f7f3b2fee12f8dcbdd2c9b058b5945274d438.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.x02.p1566/85ba4e493aca1b649b48ab6e0157eeb9acd72f44.jpg"
+        }
+      ]
+    },
+    {
+      "subcategory_id": "x03",
+      "subcategory_name": "s/w/grün (B5)",
+      "subcategory_img": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.x03.p1566/950a13d7d94559631512adea012ae0b7020505ea.jpg",
+      "image_list": [
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.x03.p1566/950a13d7d94559631512adea012ae0b7020505ea.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.x03.p1566/6d19f9115ea1613fc2018066a60593611e21b2b8.jpg"
+        }
+      ]
+    },
+    {
+      "subcategory_id": "x04",
+      "subcategory_name": "rot-braun-holz (B5)",
+      "subcategory_img": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.x04.p1566/769b9970a8d6fdb1c8f671498deed40568e02f5e.jpg",
+      "image_list": [
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.x04.p1566/769b9970a8d6fdb1c8f671498deed40568e02f5e.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.x04.p1566/1db59dfe0cd2bc0c06710d5227b6a02246815945.jpg"
+        }
+      ]
+    }
+  ],
+  "exterior_videos": [
+    {
+      "name": "schwarz-wei\u00df",
+      "video": "https://blue7.it/studio/result_files/2021/2951/2951.x01.p1568/5368b7fbd5427edda3c1db831cb366749b757e63.mp4"
+    },
+    {
+      "name": "rot-beige",
+      "video": "https://blue7.it/studio/result_files/2021/2951/2951.x02.p1568/103399e26c500969c6d36cf8ed2023eb90b2ce38.mp4"
+    },
+    {
+      "name": "s/w/gr\u00fcn",
+      "video": "https://blue7.it/studio/result_files/2021/2951/2951.x03.p1568/2d619ed140d6d1e7f017a71d0ef95fa1b98b7b1a.mp4"
+    },
+    {
+      "name": "rot-braun-holz",
+      "video": "https://blue7.it/studio/result_files/2021/2951/2951.x04.p1568/860fa108f89c1c90c6a71b5d6f9331e19b0504a9.mp4"
+    }
+  ],
+  "interior_subcategories": [
+    {
+      "subcategory_id": "n01",
+      "subcategory_name": "EG-Modern",
+      "subcategory_img": "https://blue7.it/studio/result_compress_files/2021/2951/2951.n01.p1723/89a7292f35aeffc3c796745f951849226c315b56.jpg_compress.jpg",
+      "image_list": [
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n01.p1723/89a7292f35aeffc3c796745f951849226c315b56.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n01.p1723/c4933505d278d5e2d15fe857454d63da3fe41e6f.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n01.p1723/d6e98bce913c06c0daf1f898383665fc1bd851ec.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n01.p1723/b2408186aff7438ecbb6ce15ee02e646a5b0a297.jpg"
+        }
+      ]
+    },
+    {
+      "subcategory_id": "n02",
+      "subcategory_name": "OG-Modern",
+      "subcategory_img": "https://blue7.it/studio/result_compress_files/2021/2951/2951.n02.p1723/354b02f0abcf4231c7dc5ce793adaae9ab5dcc02.jpg_compress.jpg",
+      "image_list": [
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n02.p1723/354b02f0abcf4231c7dc5ce793adaae9ab5dcc02.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n02.p1723/a1172662b235e3919a0f14774375ce48977975d9.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n02.p1723/8d73cade473dee68aa164c8aec6b7d3c76615b9d.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n02.p1723/54d7ac0bd0d8e9054b873a28fe9e6978ea0b595d.jpg"
+        }
+      ]
+    },
+    {
+      "subcategory_id": "n03",
+      "subcategory_name": "EG-Scandinavian",
+      "subcategory_img": "https://blue7.it/studio/result_compress_files/2021/2951/2951.n03.p1723/59f82fdf1d8a5def87286a634611f96671e940c8.jpg_compress.jpg",
+      "image_list": [
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n03.p1723/59f82fdf1d8a5def87286a634611f96671e940c8.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n03.p1723/3499554c97d407e6b6148cea8d9f53b4f5ce24cd.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n03.p1723/59cfedbfe7071a4cf4adac078361c2143c507824.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n03.p1723/2f5e277c6c0e9b341d96f1a11b987563f5d4c857.jpg"
+        }
+      ]
+    },
+    {
+      "subcategory_id": "n04",
+      "subcategory_name": "OG-Scandinavian",
+      "subcategory_img": "https://blue7.it/studio/result_compress_files/2021/2951/2951.n04.p1723/a7d53c204b88bf58fadadd58b78986233c349e63.jpg_compress.jpg",
+      "image_list": [
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n04.p1723/a7d53c204b88bf58fadadd58b78986233c349e63.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n04.p1723/4a0a383bfafa01a8839fa072d6364b89c5d5751b.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n04.p1723/f91205301b0c1277bcfef4e33b8b11273d9658fc.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n04.p1723/43ff404bf041d9060cfe5a178c47735969ea4cd6.jpg"
+        }
+      ]
+    }
+  ],
+  "interior_360_panoramas": [
+    {
+      "subcategory_id": "n01",
+      "subcategory_name": "EG-Modern",
+      "subcategory_image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n01.p1726/be2d212562a8a058f73c5bb92764f18b963997dc.jpg",
+      "image_list": [
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n01.p1726/be2d212562a8a058f73c5bb92764f18b963997dc.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n01.p1726/449008d7c841966b67097c64676f1a69577f442e.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n01.p1726/3fcc386efbff513539b9e2edc0c7174ecd442152.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n01.p1726/4c8f5a5418624ab7c2db5f217a25195849afcc18.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n01.p1726/3b1e738ed4cfb55582fd4d2abc1bcd2b0ae85757.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n01.p1726/f109c2931df4535252073d98d5b942708fba8a9f.jpg"
+        }
+      ]
+    },
+    {
+      "subcategory_id": "n02",
+      "subcategory_name": "OG-Modern",
+      "subcategory_image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n02.p1726/bb1227a139f6d59a61c3cbb786325921ebbbbec4.jpg",
+      "image_list": [
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n02.p1726/bb1227a139f6d59a61c3cbb786325921ebbbbec4.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n02.p1726/3f7883a2adb4bb8ae7f1b6c77499bb74637ab41a.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n02.p1726/0e4ca644543963d3940fd29b050438d46fef5678.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n02.p1726/c9ce794a8b9738af905f32dfcbcc078a31093546.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n02.p1726/e9e966794a8fa6e5459dfecd10e3144a478989ed.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n02.p1726/f2bc2e153ea685730e34028d804dd551225ebd47.jpg"
+        }
+      ]
+    },
+    {
+      "subcategory_id": "n03",
+      "subcategory_name": "EG-Scandinavian",
+      "subcategory_image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n03.p1726/8257096476d4dfd2716b0c6a03d69cdfcd97766f.jpg",
+      "image_list": [
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n03.p1726/8257096476d4dfd2716b0c6a03d69cdfcd97766f.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n03.p1726/f2616673b80a3de1129327ed16fc9b806d269a91.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n03.p1726/5eff00bf82af8b5a5d655f14209cc0d4d093a045.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n03.p1726/6253a4b10947cc08540332f5beb2e06a600f1bb4.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n03.p1726/a83debcf27df5706a40c58d7e8e2f12df7a9868e.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n03.p1726/c9c5fc3cfa6ba0737ab7d95973bd0b6c17322d7b.jpg"
+        }
+      ]
+    },
+    {
+      "subcategory_id": "n04",
+      "subcategory_name": "OG-Scandinavian",
+      "subcategory_image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n04.p1726/ca6a67671c8fc9991c17e018990a0c7eaadea78b.jpg",
+      "image_list": [
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n04.p1726/ca6a67671c8fc9991c17e018990a0c7eaadea78b.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n04.p1726/8b0072154686306ffade842a908491b2fb0bb618.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n04.p1726/97f06f9a18d9a04856445da77323673921f88817.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n04.p1726/294ce609e05d87a5fc5ed3cedc111e0f8dc72670.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n04.p1726/65ab5553dc827044a28facfa9f4ac38c4d261906.jpg"
+        },
+        {
+          "name": "Image Name",
+          "image": "https://bauvorschau.com/index.php/images/optimized/90/700/2021/2951/2951.n04.p1726/8e9809ce1d6d88afa87f7deb8974b106c5c8b022.jpg"
+        }
+      ]
+    }
+  ],
+  "interior_videos": [
+    {
+      "name": "Modern - EG",
+      "video": "https://blue7.it/studio/result_files/2021/2951/2951.n01.p1727/fb280bfd4b307502de0bfc050686dadd51b46f96.mp4"
+    },
+    {
+      "name": "Modern - OG",
+      "video": "https://blue7.it/studio/result_files/2022/2951/2951.n01.p1727/6dc37a642ed0145fea7ecd8316999b08f5054191.mp4"
+    },
+    {
+      "name": "Modern - OG (77 MB)",
+      "video": "https://blue7.it/studio/result_files/2021/2951/2951.n02.p1727/9a34316252d6445b662592b4ed09a62c3d4129f6.mp4"
+    },
+    {
+      "name": "Scandinavian - EG",
+      "video": "https://blue7.it/studio/result_files/2021/2951/2951.n03.p1727/a9d9d69b48d08fe9643cff1ca26c2053969f8379.mp4"
+    },
+    {
+      "name": "Sacandinavian - OG (84 MB)",
+      "video": "https://blue7.it/studio/result_files/2021/2951/2951.n04.p1727/936053cf1694b62a467d132bfa250a44f32a37f9.mp4"
+    },
+    {
+      "name": "Scandinavian - OG (287 MB)",
+      "video": "https://blue7.it/studio/result_files/2021/2951/2951.n04.p1727/e40e8fe58e235605b195e9ab87602f1fc6712063.mp4"
+    }
+  ],
+  "configurator_2d": {
+    "front": {
+      "colors": "https://blue7.it/studio/result_files/2021/2951/2951.x01.p156z/54f96a3561970295e57ae86f9f60f809be64c0c0.txt",
+      "masks": [
+        {
+          "mask_image": "https://blue7.it/studio/result_files/2021/2951/2951.x01.p156y/3d8ffaea73382743fc82bfdaad2b867051500edc.jpg",
+          "mask_name": "fs.dsp_010",
+          "mask_class": "mask-door_shape",
+          "svg": "https://blue7.it/studio/result_files/2021/2951/2951.x01.p156z/9c67b01e144698117a679d8556de64685a351cb5.svg"
+        },
+        {
+          "mask_image": "https://blue7.it/studio/result_files/2021/2951/2951.x01.p156y/faeaddaf0d654f107a4eff4ec27ec37e4eff2597.jpg",
+          "mask_name": "fs.dsp_004",
+          "mask_class": "mask-door_shape",
+          "svg": "https://blue7.it/studio/result_files/2021/2951/2951.x01.p156z/9c67b01e144698117a679d8556de64685a351cb5.svg"
+        },
+        {
+          "mask_image": "https://blue7.it/studio/result_files/2021/2951/2951.x01.p156y/8796866e68b875ef5715b1d2afd934726d02fe9a.jpg",
+          "mask_name": "fs.dsp_008",
+          "mask_class": "mask-door_shape",
+          "svg": "https://blue7.it/studio/result_files/2021/2951/2951.x01.p156z/9c67b01e144698117a679d8556de64685a351cb5.svg"
+        },
+        {
+          "mask_image": "https://blue7.it/studio/result_files/2021/2951/2951.x01.p156y/ae9c587a02d3c0d80e2fe3b5a6b53a355c56d813.jpg",
+          "mask_name": "fs.dsp_002",
+          "mask_class": "mask-door_shape",
+          "svg": "https://blue7.it/studio/result_files/2021/2951/2951.x01.p156z/9c67b01e144698117a679d8556de64685a351cb5.svg"
+        }
+      ],
+      "reflection": {
+        "image": "https://blue7.it/studio/result_compress_files/2021/2951/2951.x01.p156y/178b1a1d6cf36b97acf776074012764edabde368.jpg_compress.jpg",
+        "name": "fs.reflection",
+        "roof_svg": "https://blue7.it/studio/result_files/2021/2951/2951.x01.p156z/9c7ea4c2474fcd246942306837ba2e18aa101157.svg",
+        "gutters_svg": "https://blue7.it/studio/result_files/2021/2951/2951.x01.p156z/3960e3a2b6deec7916174aeaa408e44903ef7404.svg",
+        "windows_svg": "https://blue7.it/studio/result_files/2021/2951/2951.x01.p156z/30468391994806bceef43465fdf5d79015ac4771.svg"
+      },
+      "main": {
+        "image": "https://blue7.it/studio/result_files/2021/2951/2951.x01.p156y/8c4baad0fd010048eeb7bf42b5534e82f7ffa08b.jpg",
+        "name": "fs.total"
+      }
+    },
+    "back": {
+      "colors": "https://blue7.it/studio/result_files/2021/2951/2951.x01.p156z/cc8de44ef5e6711383057d7179f67ad23b080de6.txt",
+      "masks": null,
+      "reflection": {
+        "image": "https://blue7.it/studio/result_compress_files/2021/2951/2951.x01.p156y/8c67f0c2b8ffd25aeb4b3f755c71ea55bd9a51e4.jpg_compress.jpg",
+        "name": "bs.reflection",
+        "roof_svg": "https://blue7.it/studio/result_files/2021/2951/2951.x01.p156z/ce7295275472e36bd6bc7f0d22c66cb94713ac4a.svg",
+        "gutters_svg": "https://blue7.it/studio/result_files/2021/2951/2951.x01.p156z/c2e2fc44ff3d2bcd040edd547415f8d26425163e.svg",
+        "windows_svg": "https://blue7.it/studio/result_files/2021/2951/2951.x01.p156z/6db3ec30fd41532baf72cd26b25f2904d27735c3.svg"
+      },
+      "main": {
+        "image": "https://blue7.it/studio/result_files/2021/2951/2951.x01.p156y/08b9eab65c791d3935ff00cba5b6101fcc07c7cb.jpg",
+        "name": "bs.total"
+      }
+    },
+    "menu": {
+      "roof_tiles_colors": [
+        {
+          "id": "2",
+          "name": "rotbraun",
+          "picture": "https://domenia.blue7.it/images/rmp_001/rotbraun.jpg",
+          "color": "CA7458"
+        },
+        {
+          "id": "6",
+          "name": "edelgrau",
+          "picture": "https://domenia.blue7.it/images/rmp_001/edelgrau.jpg",
+          "color": "A8A7A3"
+        },
+        {
+          "id": "5",
+          "name": "anthrazit",
+          "picture": "https://domenia.blue7.it/images/rmp_001/anthrazit.jpg",
+          "color": "3c3c3c"
+
+        },
+        {
+          "id": "3",
+          "name": "naturrot",
+          "picture": "https://domenia.blue7.it/images/rmp_001/naturrot.jpg",
+          "color": "d68b72"
+
+        },
+        {
+          "id": "7",
+          "name": "cottage",
+          "picture": "https://domenia.blue7.it/images/rmp_001/cottage.jpg",
+          "color": "915743"
+
+        }
+      ],
+      "gutters_colors": [
+        {
+          "id": "gut_001",
+          "name": "gutter standard metal",
+          "picture": "https://domenia.blue7.it/images/gutters/gut_001.jpg",
+          "color": "c2dcea"
+        },
+        {
+          "id": "gut_003",
+          "name": "gutter standard white",
+          "picture": "https://domenia.blue7.it/images/gutters/gut_003.jpg",
+          "color": "FFFFFF"
+        },
+        {
+          "id": "gut_007",
+          "name": "gutter fir",
+          "picture": "https://domenia.blue7.it/images/gutters/gut_007.jpg",
+          "color": "30473b"
+        },
+        {
+          "id": "gut_002",
+          "name": "gutter standard copper",
+          "picture": "https://domenia.blue7.it/images/gutters/gut_002.jpg",
+          "color": "b87333"
+        }
+      ],
+      "walls_colors": [
+        {
+          "id": "clp_00011",
+          "name": "Cool white",
+          "color": "fffffd"
+        },
+        {
+          "id": "clp_00031",
+          "name": "Granit 60",
+          "color": "E1DDDA"
+        },
+        {
+          "id": "clp_00071",
+          "name": "Granit 30",
+          "color": "8D8988"
+        },
+        {
+          "id": "clp_00041",
+          "name": "Curry 90",
+          "color": "FEF0C9"
+        },
+        {
+          "id": "clp_00051",
+          "name": "Curry 80",
+          "color": "F1DAAE"
+        },
+        {
+          "id": "clp_00081",
+          "name": "Ceramic 20",
+          "color": "BAA497"
+        },
+        {
+          "id": "clp_00061",
+          "name": "Papaya 60",
+          "color": "E7D1C6"
+        },
+        {
+          "id": "clp_00151",
+          "name": "Lachs 70",
+          "color": "ec7c40"
+        },
+        {
+          "id": "clp_00141",
+          "name": "Magma 95",
+          "color": "984539"
+        },
+        {
+          "id": "clp_00111",
+          "name": "Lazur 165",
+          "color": "4F7099"
+        },
+        {
+          "id": "clp_00131",
+          "name": "Malachit 40",
+          "color": "1a4333"
+        },
+        {
+          "id": "clp_00191",
+          "name": "Anthrazit",
+          "color": "2d2d2d"
+        }
+      ],
+      "walls_second_colors": [
+        {
+          "id": "clp_00011",
+          "name": "Cool white",
+          "color": "fffffd"
+        },
+        {
+          "id": "clp_00031",
+          "name": "Granit 60",
+          "color": "E1DDDA"
+        },
+        {
+          "id": "clp_00071",
+          "name": "Granit 30",
+          "color": "8D8988"
+        },
+        {
+          "id": "clp_00041",
+          "name": "Curry 90",
+          "color": "FEF0C9"
+        },
+        {
+          "id": "clp_00051",
+          "name": "Curry 80",
+          "color": "F1DAAE"
+        },
+        {
+          "id": "clp_00081",
+          "name": "Ceramic 20",
+          "color": "BAA497"
+        },
+        {
+          "id": "clp_00061",
+          "name": "Papaya 60",
+          "color": "E7D1C6"
+        },
+        {
+          "id": "clp_00151",
+          "name": "Lachs 70",
+          "color": "ec7c40"
+        },
+        {
+          "id": "clp_00141",
+          "name": "Magma 95",
+          "color": "984539"
+        },
+        {
+          "id": "clp_00111",
+          "name": "Lazur 165",
+          "color": "4F7099"
+        },
+        {
+          "id": "clp_00131",
+          "name": "Malachit 40",
+          "color": "1a4333"
+        },
+        {
+          "id": "clp_00191",
+          "name": "Anthrazit",
+          "color": "2d2d2d"
+        }
+      ],
+      "windows_colors": [
+        {
+          "id": "clp_00011",
+          "name": "Cool white",
+          "color": "fffffd"
+        },
+        {
+          "id": "clp_00191",
+          "name": "Anthrazit",
+          "color": "2d2d2d"
+        },
+        {
+          "id": "clp_00201",
+          "name": "Holzoptik",
+          "color": "70452a"
+        }
+      ],
+      "doors_colors": [
+        {
+          "id": "clp_00011",
+          "name": "Cool white",
+          "color": "fffffd"
+        },
+        {
+          "id": "clp_00202",
+          "name": "Red",
+          "color": "ff0000"
+        },
+        {
+          "id": "clp_00201",
+          "name": "Holzoptik",
+          "color": "70452a"
+        },
+        {
+          "id": "clp_00111",
+          "name": "Lazur 165",
+          "color": "4F7099"
+        },
+        {
+          "id": "clp_00191",
+          "name": "Anthrazit",
+          "color": "2d2d2d"
+        },
+        {
+          "id": "clp_00131",
+          "name": "Malachit 40",
+          "color": "1a4333"
+        }
+      ],
+      "doors_shapes": [
+        {
+          "id": "dsp_002",
+          "name": "door1 windows 0",
+          "picture": "https://domenia.blue7.it/images/ds_001/door_blue_dark_0.jpg"
+        },
+        {
+          "id": "dsp_004",
+          "name": "door1 windows 1",
+          "picture": "https://domenia.blue7.it/images/ds_002/door_blue_dark_1.jpg"
+        },
+        {
+          "id": "dsp_008",
+          "name": "door1 windows 3",
+          "picture": "https://domenia.blue7.it/images/ds_004/door_blue_dark_3.jpg"
+        },
+        {
+          "id": "dsp_010",
+          "name": "door1 windows 4",
+          "picture": "https://domenia.blue7.it/images/ds_005/door_blue_dark_4.jpg"
+        }
+      ]
+    }
+  },
+  "configurator_3d_subcategories": false,
+  "impressum_company": [
+    {
+      "company": "PLITT real&virtual ESTATE Ltd. (Germany)",
+      "leader_title": "Geschäftsführer",
+      "leader_names": "Plitt Petra",
+      "postcode": "91096",
+      "street": "Sudetenstr.",
+      "nr": "39",
+      "city": "Moehrendorf",
+      "phone": "+49 9131 91 88 760",
+      "country": "BR Deutschland",
+      "registration": "AG Fuerth HRB 13861",
+      "vat_tax_no": "DE275854034",
+      "email": "bauvorschau@immovisualisierung.de",
+      "other_legals": "Aufsichtsbehörde: Gewerbeamt Moehrendorf"
+    }
+  ]
+}
